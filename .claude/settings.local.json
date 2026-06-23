@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd *)",
+      "Bash(powershell *)",
+      "Bash(mkdir \"C:\\\\Users\\\\Administrator\\\\.claude\\\\skills\\\\feasibility-study\")",
+      "Bash(cp -r \"C:\\\\Users\\\\Administrator\\\\.claude\\\\skills\\\\feasibility-study-writer/\"* \"C:\\\\Users\\\\Administrator\\\\.claude\\\\skills\\\\feasibility-study/\")",
+      "Bash(echo \"Copy done, exit code: $?\")",
+      "Bash(rm -rf \"C:\\\\Users\\\\Administrator\\\\.claude\\\\skills\\\\feasibility-study-writer\")",
+      "Bash(echo \"exit: $?\")"
+    ]
+  }
+}

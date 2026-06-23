@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PyPDF2; print\\('PyPDF2 available'\\)\")",
+      "Bash(python -c \"import pdfplumber; print\\('pdfplumber available'\\)\")",
+      "Bash(python -c \"import pikepdf; print\\('pikepdf available'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Read(//c/Users/Administrator/Desktop/**)",
+      "Bash('C:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe' -c ' *)",
+      "Read(//mnt/c/Users/Administrator/Desktop/**)",
+      "Bash(cmd.exe /c \"dir \\\\\"C:\\\\\\\\Users\\\\\\\\Administrator\\\\\\\\Desktop\\\\\\\\提出的问题.docx\\\\\" 2>nul\")",
+      "Bash(C:/Users/Administrator/AppData/Local/Programs/Python/Python312/python.exe -c ' *)",
+      "WebSearch",
+      "Bash(C:/Users/Administrator/AppData/Local/Programs/Python/Python312/python.exe *)",
+      "Bash(where tesseract *)",
+      "Bash(where jq *)",
+      "Bash(curl *)",
+      "Bash(winget install *)",
+      "Bash(jq *)",
+      "Bash(echo '{\"workspace\":{\"current_dir\":\"C:\\\\\\\\Users\\\\\\\\Administrator\\\\\\\\.claude\\\\\\\\skills\\\\\\\\qiuzhi-skill-creator\"},\"model\":{\"display_name\":\"deepseek-v4-pro\"},\"context_window\":{\"remaining_percentage\":85}}')",
+      "Bash(powershell *)",
+      "WebFetch(domain:bigsoundbank.com)"
+    ]
+  }
+}
