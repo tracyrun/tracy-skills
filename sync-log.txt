@@ -25,3 +25,14 @@ To github.com:tracyrun/tracy-skills.git
    e166453..7cab5c7  master -> master
 同步完成 ✓
 ==== 2026-06-25 14:16:35 ====
+warning: in the working copy of 'feasibility-study/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'feasibility-study/references/chapter-writing-guide.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'sync-log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'feasibility-study/references/detailed-outline-template.md', LF will be replaced by CRLF the next time Git touches it
+[master fc0279b] 自动同步: 2026-06-25 14:16
+ 4 files changed, 776 insertions(+), 44 deletions(-)
+ create mode 100644 feasibility-study/references/detailed-outline-template.md
+To github.com:tracyrun/tracy-skills.git
+   7cab5c7..fc0279b  master -> master
+同步完成 ✓
+==== 2026-06-25 14:38:53 ====
